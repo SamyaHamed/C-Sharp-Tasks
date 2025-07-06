@@ -1,23 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/*Console.WriteLine("Samya !");
-Console.WriteLine(4+5);
-Console.WriteLine("4+5");
-Console.Write("i love you\n");
-Console.Write("HI Everyone\n");
-String var1 = "Eman" ;
-Console.WriteLine(var1);
+/*
+Write C# code that reads the following from a file 
+N : represents int number
+N Values : represents a list of integer numbers
 
-Console.WriteLine("Enter Your age:");
-//int age = Convert.ToInt32(Console.ReadLine());
-//Console.WriteLine("User Name is :"+ age);
-int v1 = 9;
-int v2 = 10;
-Console.WriteLine(v1<v2);
-string name1 = "samya";
-string name2 = "Eman";
-string university = "AL-Najah";
-string all = $"hi {name1} ,{name2} all of them study at {university}";
-Console.WriteLine(all);
+this will represent Unsorted array
+find two numbers where their summation = 9
+
+
+Example
+- Input:
+7
+5 7 10 3 6 1 0
+
+
+Output:
+3  6
 */
 
 
